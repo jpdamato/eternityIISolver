@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EternityGPU", "clJ2K.vcxproj", "{41D15E08-5B0E-480F-998F-AF7EB1A83448}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImgWaterFill", "..\ImgWaterFill\ImgWaterFill.vcxproj", "{306F6605-B34D-445D-AE07-7B06E953448E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41D15E08-5B0E-480F-998F-AF7EB1A83448}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41D15E08-5B0E-480F-998F-AF7EB1A83448}.Debug|Win32.Build.0 = Debug|Win32
+		{41D15E08-5B0E-480F-998F-AF7EB1A83448}.Release|Win32.ActiveCfg = Release|Win32
+		{41D15E08-5B0E-480F-998F-AF7EB1A83448}.Release|Win32.Build.0 = Release|Win32
+		{306F6605-B34D-445D-AE07-7B06E953448E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{306F6605-B34D-445D-AE07-7B06E953448E}.Debug|Win32.Build.0 = Debug|Win32
+		{306F6605-B34D-445D-AE07-7B06E953448E}.Release|Win32.ActiveCfg = Release|Win32
+		{306F6605-B34D-445D-AE07-7B06E953448E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
